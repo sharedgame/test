@@ -2,7 +2,7 @@ class Main
 {
   async run()
   {
-    E('main').clr().text('hello test world');
+    E('main').clr().text(await GetJSON('test.json'));
   }
 }
 
