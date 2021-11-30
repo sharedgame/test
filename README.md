@@ -1,5 +1,7 @@
 https://sharedgame.github.io/test/
 
+[You need a modern browser which supports private class fields](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Private_class_fields#browser_compatibility)
+
 # Usage
 
 ## Fork the repo to display your changes
